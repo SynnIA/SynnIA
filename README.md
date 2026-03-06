@@ -40,6 +40,7 @@ Here are some things I’m building:
 ## 🌐 Links
 Website  
 https://synn-ia.com
+
 LinkedIn  
 https://www.linkedin.com/in/nathan-fernandes-a5793b377/
 
