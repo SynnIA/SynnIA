@@ -1,51 +1,55 @@
 # Hi 👋 I'm Nathan Fernandes
 
-Builder focused on **AI tools, web products and automation**.
-Founder of **SYNN-IA**.
+**Founder of [SYNN-IA](https://nathanfernandes.fr)** — I design digital products, automations and AI-assisted tools that solve real business problems, from the idea to production.
+
+📍 Dijon, France · 🎓 Bachelor in Management @ BSB · 🌐 **[nathanfernandes.fr](https://nathanfernandes.fr)**
 
 ---
 
-## 🚀 What I build
-- AI-powered tools
-- Web platforms
-- Automation systems
-- Developer utilities
+## 🚀 What I do
 
-I enjoy turning ideas into **real working products**.
+- **Full-stack web development** — React, Next.js, TypeScript, Supabase
+- **Process automation & AI integration** — Claude, GPT and related models, always with human validation
+- **Product design** — from need analysis to prototype, then to production
 
----
-
-## 🛠 Tech
-TypeScript  
-React  
-Tailwind  
-Supabase  
-AI APIs  
+> My approach: start from the **business problem**, then choose the technology.
 
 ---
 
-## 📦 Projects
+## 🛠 Featured projects
 
-Here are some things I’m building:
-- **FitTrack**  
-  Lightweight fitness progress tracker
-- **Image Compressor Studio**  
-  Client-side image compression tool
-- **JSON Swiss Knife**  
-  JSON formatting and developer utilities
-- **Clipboard Wizard**  
-  Small productivity tools for developers
+| Project | What it is | Status |
+| --- | --- | --- |
+| **[CORHOM](https://corhombtp.com)** | Recruitment website + AI-assisted internal tool (GPT) to structure & publish candidate profiles | 🟢 In production, used daily |
+| **Sonic Vision** | iOS accessibility app for blind & visually impaired users — LiDAR, haptics, spatial audio, offline | Swift Student Challenge 2026 |
+| **FitTrack** | Sports & nutrition tracking web app (Next.js / TypeScript / Supabase) | In progress |
+
+More on my portfolio → **[nathanfernandes.fr](https://nathanfernandes.fr)**
 
 ---
-## 🌐 Links
-Website  
-https://synn-ia.com
 
-LinkedIn  
-https://www.linkedin.com/in/nathan-fernandes-a5793b377/
+## 🧰 Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynnIA&show_icons=true&theme=dark)
+
+## 🤖 How I work with AI
+
+I use each model for its strengths — **Claude & Claude Code** for development and agents, **ChatGPT & custom GPTs** for business assistants and data structuring, **Perplexity** for sourced research, **Gemini** for multimodal. The right tool for the right job, always with human validation.
+
 ---
-⭐ Always building something new.
+
+## 📫 Get in touch
+
+- 🌐 Portfolio — **[nathanfernandes.fr](https://nathanfernandes.fr)**
+- 💼 LinkedIn — **[Nathan Fernandes](https://www.linkedin.com/in/nathan-fernandes-a5793b377/)**
+- ✉️ nathan.fernandes@synn-ia.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=SynnIA&show_icons=true&hide_border=true&theme=transparent" height="150" alt="Nathan's GitHub stats" />
