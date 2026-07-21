@@ -21,8 +21,8 @@
 | Project | What it is | Status |
 | --- | --- | --- |
 | **[CORHOM](https://corhombtp.com)** | Recruitment website + AI-assisted internal tool (GPT) to structure & publish candidate profiles | 🟢 In production, used daily |
-| **Sonic Vision** | iOS accessibility app for blind & visually impaired users — LiDAR, haptics, spatial audio, offline | Swift Student Challenge 2026 |
-| **FitTrack** | Sports & nutrition tracking web app (Next.js / TypeScript / Supabase) | In progress |
+| **[Sonic Vision](https://github.com/SynnIA/sonic-vision)** | iOS accessibility app for blind & visually impaired users — LiDAR, haptics, spatial audio, offline | Swift Student Challenge 2026 |
+| **[FitTrack](https://github.com/SynnIA/FitTrack)** | Sports & nutrition tracking web app (Next.js / TypeScript / Supabase) | In progress |
 
 More on my portfolio → **[nathanfernandes.fr](https://nathanfernandes.fr)**
 
@@ -51,5 +51,3 @@ I use each model for its strengths — **Claude & Claude Code** for development 
 - 🌐 Portfolio — **[nathanfernandes.fr](https://nathanfernandes.fr)**
 - 💼 LinkedIn — **[Nathan Fernandes](https://www.linkedin.com/in/nathan-fernandes-a5793b377/)**
 - ✉️ nathan.fernandes@synn-ia.com
-
-<img src="https://github-readme-stats.vercel.app/api?username=SynnIA&show_icons=true&hide_border=true&theme=transparent" height="150" alt="Nathan's GitHub stats" />
