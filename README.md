@@ -63,5 +63,5 @@ I use each model for its strengths — **Claude & Claude Code** for development 
 ## 📫 Get in touch
 
 - 🌐 Portfolio — **[nathanfernandes.fr](https://nathanfernandes.fr)**
-- 💼 LinkedIn — **[Nathan Fernandes](https://www.linkedin.com/in/nathan-fernandes-a5793b377/)**
+- 💼 LinkedIn — **[Nathan Fernandes](https://www.linkedin.com/in/nathan-fernandes-synnia/)**
 - ✉️ nathan.fernandes@synn-ia.com
